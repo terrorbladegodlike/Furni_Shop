@@ -3,7 +3,7 @@ import { features } from '../data'
 
 const Features = () => {
 
-  const {image, title, subtitle, buttonText, items} = features;
+  const {image, title, subtitle, items} = features;
 
   return (
     <section className='section'>
